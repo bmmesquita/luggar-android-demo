@@ -1,17 +1,21 @@
 # Package Tracking App
 
 Android package tracking app under development with Jetpack Compose, Tracking API, and Firebase.
+Application code is on a private repository.
 
 ## Features
 
 - Jetpack Compose UI. Custom animations, transitions, light/dark theme, and layouts.
 - Jetpack Compose Navigation.
 - Dependency injection with Hilt.
+- Modularization (Feature based).
+- CLEAN Archictecture.
 - MVVM Architecture.
+- SOLID principles.
 - Retrieves tracking from the network.
 - Notifications for tracking events.
-- Light and Dark Themes
-- Tests (Unit, Integration, End 2 End)
+- Light and Dark Themes.
+- Tests (Unit, Integration, End 2 End).
 
 ## Libraries
 
